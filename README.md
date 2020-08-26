@@ -29,5 +29,5 @@ I'm an experienced Project Manager learning web dev and having fun along the way
 
 [twitter]: https://twitter.com/Trinitui174
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://www.linkedin.com/in/andrewmwhelan/# Trinitui
+[linkedin]: https://www.linkedin.com/in/andrewmwhelan/
 
