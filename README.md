@@ -5,7 +5,7 @@ I'm an experienced Project Manager learning web dev and having fun along the way
 
 ### Projects on GibHub:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Trinitui&repo=github-readme-stats)](https://github.com/Trinitui/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Trinitui)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trinitui&layout=compact)](https://github.com/Trintiui/github-readme-stats)
 <br />
 
