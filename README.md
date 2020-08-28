@@ -3,7 +3,7 @@ I'm an experienced Project Manager learning web dev and having fun along the way
 
 <br />
 
-### Projects on GibHub:
+### Stats on GibHub:
 
 [![Trinitui's github stats](https://github-readme-stats.vercel.app/api?username=Trinitui&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
@@ -20,7 +20,8 @@ I'm an experienced Project Manager learning web dev and having fun along the way
 
 ### Connect with me:
 
-
+Twitter([twitter])
+Linkedin[linkedin]
 
 
 
@@ -29,6 +30,5 @@ I'm an experienced Project Manager learning web dev and having fun along the way
 
 
 [twitter]: https://twitter.com/Trinitui174
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/andrewmwhelan/
 
