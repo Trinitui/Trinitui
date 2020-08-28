@@ -20,8 +20,8 @@ I'm an experienced Project Manager learning web dev and having fun along the way
 
 ### Connect with me:
 
-Twitter([twitter])
-Linkedin[linkedin]
+[twitter]
+[linkedin]
 
 
 
