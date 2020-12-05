@@ -3,7 +3,7 @@ I'm an experienced Project Manager learning web dev and having fun along the way
 
 <br />
 
-### Stats on GibHub:
+### Stats on GitHub:
 
 [![Trinitui's github stats](https://github-readme-stats.vercel.app/api?username=Trinitui&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
