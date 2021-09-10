@@ -18,21 +18,11 @@ I'm an experienced Project Manager learning web dev and having fun along the way
 <img align="left" alt="MongoDB" width="26px" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" />
 <img align="left" alt="Python" width="26px" src="https://www.clipartmax.com/png/middle/292-2923778_python-logo-clipart-realistic-python-programming-a-comprehensive-beginners-guide.png" />
 
-
 <br />
 
 ### Connect with me:
 
-[twitter]
-
-[linkedin]
-
-
-
-<br />
-<br />
-
+[twitter] | [linkedin]
 
 [twitter]: https://twitter.com/Trinitui174
 [linkedin]: https://www.linkedin.com/in/andrewmwhelan/
-
