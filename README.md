@@ -1,5 +1,5 @@
 ## About me:
-I'm an experienced Project Manager learning web dev and having fun along the way. Take a look at my projects below and reach out if you have any feedback!
+I'm an experienced Project Manager learning Data Science and having fun along the way. Take a look at my projects below and reach out if you have any feedback!
 
 <br />
 
