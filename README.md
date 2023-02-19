@@ -5,6 +5,10 @@ Take a look at my projects below and reach out if you have any feedback!
 
 <br />
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://captonepoc-jco7gx4dkq-uc.a.run.app)
+
+<br />
+
 ### Stats on GitHub:
 
 [![Trinitui's github stats](https://github-readme-stats.vercel.app/api?username=Trinitui&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
